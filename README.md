@@ -1,10 +1,10 @@
 ## Running Inheritance Project Test
 
-# Prerequisite
+### Prerequisite
 
 gcc version 9.4.0
 
-# How to Run
+#### How to Run
 
 1) Move the test.cpp and Fruit.cpp file to the directory of your choice
 
